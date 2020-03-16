@@ -1,0 +1,2 @@
+include ':app', ':demolib2'
+rootProject.name='demoLib'
